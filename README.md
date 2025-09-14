@@ -25,6 +25,10 @@ The script main.py is created with the assistance of Gemini 2.5 and GPT 5.
 
 `-o PawnStructureWeight=150 -o PSTWeight=80`
 
+### Get help
+
+`python main.py --help`
+
 # C. Output
 
 **Strength**
