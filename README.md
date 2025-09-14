@@ -1,10 +1,12 @@
 # CERP
 CERP - Chess Engine Rating Predictor
 
+The script main.py is created with the assistance of Gemini 2.5 and GPT 5.
+
 # A. Setup
 
-## 1. Install Python
-## 2. Install requirements.txt
+### 1. Install Python
+### 2. Install requirements.txt
 
 `pip install -r requirements.txt`
 
